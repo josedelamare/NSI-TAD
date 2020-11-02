@@ -7,4 +7,4 @@ La comparaison du temps d'exécution permet de prendre conscience que certaines 
 
 Pour accéder au notebook, cliquez sur le lien ci-dessous :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI-TAD/master?filepath=temps_liste.iynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/NSI-TAD/master?filepath=temps_liste.ipynb)
